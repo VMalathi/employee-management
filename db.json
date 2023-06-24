@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Saddy",
+      "lastName": "R",
+      "email": "saddy@gmail.com",
+      "phone": "8072516517",
+      "salary": "150000",
+      "id": 1
+    },
+    {
+      "firstName": "Hennah",
+      "lastName": "Jeh",
+      "email": "hennah@gmail.com",
+      "phone": "987654323",
+      "salary": "23000",
+      "id": 3
+    },
+    {
+      "firstName": "Subasree",
+      "lastName": "M",
+      "email": "suba@gmail.com",
+      "phone": "9876789065",
+      "salary": "35000",
+      "id": 5
+    },
+    {
+      "firstName": "GiaShree",
+      "lastName": "Shell",
+      "email": "giashell@gmail.com",
+      "phone": "7777766666",
+      "salary": "32000",
+      "id": 7
+    },
+    {
+      "firstName": "Malathi",
+      "lastName": "V",
+      "email": "malathi@gmail.com",
+      "phone": "9876543210",
+      "salary": "53000",
+      "id": 10
+    },
+    {
+      "firstName": "jeeva",
+      "lastName": "Jee",
+      "email": "jee@gmail.com",
+      "phone": "6755342457",
+      "salary": "15000",
+      "id": 11
+    }
+  ]
+}
